@@ -1,0 +1,26 @@
+{
+  "name": "functional-js",
+  "version": "1.0.0",
+  "description": "project teaching how to write functional code in Javascript and making use of immutable data structures with Mori.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projekt-matara/functional-js.git"
+  },
+  "author": "Alex Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/projekt-matara/functional-js/issues"
+  },
+  "homepage": "https://github.com/projekt-matara/functional-js#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "colors": "^1.1.2",
+    "mori": "^0.3.2",
+    "prompt": "^1.0.0"
+  }
+}
